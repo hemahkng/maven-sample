@@ -1,0 +1,10 @@
+org\simple\repository\StudentRepository.class
+org\simple\service\StudentService.class
+org\simple\controller\SchoolController.class
+org\simple\repository\SchoolRepository.class
+org\simple\service\SchoolService.class
+org\simple\maven_sample\School.class
+org\simple\controller\StudentController.class
+org\simple\maven_sample\App.class
+org\simple\maven_sample\DatabaseConnection.class
+org\simple\maven_sample\Student.class
